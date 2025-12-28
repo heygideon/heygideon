@@ -1,4 +1,17 @@
-## Hi there 👋
+![rect-bar](https://github.com/user-attachments/assets/65673562-ec22-40a5-97de-faef68b32539)
+
+**hey, I'm Gideon, and I make things.** usually websites, but other stuff too!
+
+some of those things are pretty cool:
+- [a webring](https://github.com/heygideon/page-ring) for personal sites of teens in Hack Club
+- [a website](https://github.com/youthacks/site-v3) for Youthacks hackathons
+- [a system](https://github.com/heygideon/rpi-prescription) for ordering + collecting prescriptions using lockers
+
+I have other hobbies too - you should go check out my website to see more about me!
+
+<a href="https://gideon.sh">
+  <img src="https://gideon.sh/88x31.gif" width="88" height="31" />
+</a>
 
 <!--
 **heygideon/heygideon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
