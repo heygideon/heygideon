@@ -13,7 +13,7 @@ I have other hobbies too - you should go check out my website to see more about 
   <img src="https://gideon.sh/88x31.gif" width="88" height="31" />
 </a>
 
-<sub>(pfp credit: @acornitum)</sub>
+<sub>pfp drawn by [acon](https://github.com/acornitum/) ❤️</sub>
 
 <!--
 **heygideon/heygideon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
