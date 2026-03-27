@@ -3,8 +3,9 @@
 **hey, I'm Gideon, and I make things.** usually websites, but other stuff too!
 
 some of those things are pretty cool:
+- [a landing page](https://github.com/heygideon/page-ring) for the (super-awesome!!) Hack Club magazine
 - [a webring](https://github.com/heygideon/page-ring) for personal sites of teens in Hack Club
-- [a website](https://github.com/youthacks/site-v3) for Youthacks hackathons
+- [a website](https://github.com/youthacks/site-v3) for Youthacks, an organisation running hackathons for teens in the UK
 - [a system](https://github.com/heygideon/rpi-prescription) for ordering + collecting prescriptions using lockers
 
 I have other hobbies too - you should go check out my website to see more about me!
